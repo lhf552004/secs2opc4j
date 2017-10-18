@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="lib"/>
+	<classpathentry excluding="**/*.java" kind="src" path="src/main/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="var" path="M2_REPO/log4j/log4j/1.2.17/log4j-1.2.17.jar"/>
+	<classpathentry kind="var" path="M2_REPO/commons-io/commons-io/2.4/commons-io-2.4.jar"/>
+	<classpathentry kind="var" path="M2_REPO/junit/junit/4.8/junit-4.8.jar"/>
+	<classpathentry kind="lib" path="lib/camel-core-2.12.0.jar"/>
+	<classpathentry kind="lib" path="lib/org.openscada.jinterop.core-1.1.0.v20130529.jar"/>
+	<classpathentry kind="lib" path="lib/org.openscada.jinterop.deps-1.1.0.v20130529.jar"/>
+	<classpathentry kind="lib" path="lib/org.openscada.opc.dcom-1.1.0.v20130529.jar"/>
+	<classpathentry kind="lib" path="lib/org.openscada.opc.lib-1.1.0.v20130529.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
